@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["287EDDET2B.org.wingluke.museum"],
+                "components": []
+            }
+        ]
+    },
+    "appclips": {
+        "apps": ["287EDDET2B.org.wingluke.museum.appclip"]
+    }
+}
